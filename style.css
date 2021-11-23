@@ -6,6 +6,8 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
+  list-style: none;
+  text-decoration: none;
 }
 
 body {
@@ -25,6 +27,9 @@ button {
   cursor: pointer;
   transition: 0.3s;
   font-family: "Roboto";
+}
+button a {
+  color: rgb(230, 225, 225);
 }
 button:hover {
   background: #390e75;
