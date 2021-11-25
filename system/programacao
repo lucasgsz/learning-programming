@@ -1,0 +1,71 @@
+1 - Qual é o melhor laço pra se usar quando não se sabe quantas vezes será executado?
+a - for
+b - do for 
+c - while
+d - do while 
+c
+#
+2 - Qual tipo básico em C armazena caracteres:
+a - int
+b - char
+c - float
+d - double 
+b
+#
+3 - Como se faz uma limpeza de buffer em windows?
+a - fflush
+b - _fpurge  
+c - flush 
+d - ffpurge 
+a
+#
+4 - Qual opção representa uma quebra de linha ?
+a - //
+b - /z
+c - /n
+d - z/
+c
+#
+15 - Para retornar o valor de pi em uma função é necessário que ela seja do tipo?
+a - void 
+b - int  
+c - char
+d - float 
+d
+#
+6 - Qual opção corresponde com uma verificação de igualdade ?
+a - !=
+b - ==
+c - =
+d - < 
+b
+#
+7 - Qual a forma correta de se fazer um scanf para numero inteiro?
+a - scanf("%d", &num);
+b - scanf("%p", &num);
+c - scanf("%c", &num);
+d - scanf("%s", &num);
+a
+#
+8 - Qual alternativa apresenta um comando somente para o sistema Linux?
+a - default
+b - while 
+c - fpurge
+d - fflush 
+c
+#
+9 - Um break é uma estrutura de qual das opções?
+a - switch
+b - do while 
+c - while 
+d - if
+a
+#
+10 - Qual das alternativas abaixo é utilizada para um pequeno comentário?
+a - /* */
+b - //
+c -  /z
+d - & 
+b
+#
+

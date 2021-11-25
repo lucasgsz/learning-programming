@@ -1,0 +1,71 @@
+1 - Converta os números a seguir para o sistema binário:C1316l:
+a - 110000010011
+b - 111100010010
+c - 01010010
+d - 01011010
+a
+#
+2 - Converta o número 134 em hexadecimal:
+a - F2A
+b - 86
+c - 3E8
+d - 84
+b 
+#
+3 - Converta o seguinte número no equivalente decimal e binário: 3AD16
+a - 3021; 0010101101
+b - 5871; 001001101
+c - 814; 01111011101
+d - 941; 001110101101
+d
+#
+4 - Marque a opção que conceitua corretamente TABELA VERDADE:
+a - Uma tabela composta por todas as possibilidades com relação aos níveis lógicos de uma proposição.
+b - Uma tabela composta por verdade ou falsidade.
+c - Uma tabela de verdade ou mentira.
+d - Uma tabela composta por todas as proposições falsas.
+a 
+#
+5 - Converta os números a seguir para o sistema hexadecimal: 111
+a - 54
+b - 100
+c - 46
+d - 7
+d
+#
+6 - Converta o número 500 no seu equivalente para cada uma das seguintes bases: binário e hexadecimal.
+a - 00011101,24
+b - 111110100,1F4
+c - 1010101010,54F
+d - 110110,89
+b
+#
+7 - Sejam as proposições p=Está frio e q=Está chovendo.Traduzir para a linguagem corrente as seguintes proposições: ~p;p^q.
+a - Não está frio; está chovendo se, e somente se, está frio.
+b - Está frio ou não está chovendo; não está frio e não está chovendo.
+c - Não está frio; está frio e está chovendo.
+d - Não está chovendo e não está frio; não está frio.
+c
+#
+8 -  Qual símbolo representa o conectivo OU?
+a - ^
+b - v
+c - ->
+d - <->
+a
+#
+9 - Converta o número binário para decimal: 1010
+a - 20
+b - 1
+c - 10
+d - 4 
+c
+#
+10 - Converta o número de binário para hexadecimal: 1100
+a - C
+b - 36
+c - 3C9
+d - 2DB
+a
+#
+
